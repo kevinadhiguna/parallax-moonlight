@@ -8,4 +8,8 @@ This is how this app looks :
 Actually you will see parallax effects when scrolling down this app. <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/parallax-moonlight/master/demo/2.png" width="90%"></img>
 
+## Reference
+
+- [Simple Parallax Scrolling Effect with CSS & Vanilla Javascript by Online Tutorials](https://youtu.be/TawH-AqHTXc)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/parallax-moonlight)](https://github.com/kevinadhiguna)
